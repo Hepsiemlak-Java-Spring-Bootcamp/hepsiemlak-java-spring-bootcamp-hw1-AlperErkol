@@ -7,6 +7,9 @@ I accepted all decimal numbers in this algorithm as **int**. So, the algorithm o
 > "There is no palindrome for this number for Integer data type."
 
 for the numbers that exceed 2,147,483,647. Also, exceeding this number means degrading under 0. Hence, there is an if statement to check this condition.
+- At the beginnging, in ***getReverse*** function, I used StringBuilder to make time complexity of this function O(1) when reversing, but I faced weird errors.
+- I used ***recursive*** approach to solve this problem.
+
 
 ## Part 2 (This part has code snippets.)
 
