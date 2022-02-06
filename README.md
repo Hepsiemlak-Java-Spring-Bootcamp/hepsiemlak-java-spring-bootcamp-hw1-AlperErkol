@@ -10,6 +10,8 @@ for the numbers that exceed 2,147,483,647. Also, exceeding this number means deg
 - At the beginnging, in ***getReverse*** function, I used StringBuilder to make time complexity of this function O(1) when reversing, but I faced weird errors.
 - I used ***recursive*** approach to solve this problem.
 
+### P.S. : I think that the important part of this algorithm problem is the implementation, not the data types. So, I went with integer data type. I hope that's okay :)
+
 
 ## Part 2 (This part has code snippets.)
 
