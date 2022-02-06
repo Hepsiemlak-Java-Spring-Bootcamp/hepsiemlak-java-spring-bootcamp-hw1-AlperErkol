@@ -1,5 +1,5 @@
 # HW1
-
+***I did not add screenshots of part 2 because there is no output. I explained below.***
 ## Part 1
 In this section, we are expected to implement an algorithm which finds maximum number of chain that refers number of summation of any number with its reversed to produce palindrome.
 
